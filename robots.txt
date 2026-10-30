@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jhjelte7.github.io/sitemap.xml

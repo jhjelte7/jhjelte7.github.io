@@ -1,0 +1,75 @@
+[
+  {
+    "id": "fair-share",
+    "category": "Working papers",
+    "title": "My (Fair) Share: Self-Serving Bias in a Nash Demand Game",
+    "authors": "With Daniel Neururer",
+    "summary": "Can a brief mindfulness exercise reduce self-serving bias in bargaining?",
+    "abstract": "A preregistered online experiment with 543 participants tests whether a brief mindfulness induction reduces self-serving bias in a Nash demand game with asymmetric stakes. Average claims remain unchanged. Among selfish participants in the disadvantaged role, however, the intervention reduces over-claiming and disagreement, and increases joint expected payoffs. Stated fairness benchmarks remain largely unchanged, consistent with improved self-regulation rather than a change in fairness preferences.",
+    "tags": "Bargaining · Social preferences · Experiments"
+  },
+  {
+    "id": "belief-updating",
+    "category": "Work in progress",
+    "title": "Understanding Belief Updating: Origins, Determinants, Underlying Reasoning and Stability",
+    "authors": "With Hannah Schildberg-Hörisch",
+    "summary": "How do people learn to update their beliefs, and how stable are these patterns over time?",
+    "abstract": "This project studies the development and heterogeneity of belief updating from childhood into adulthood. Experiments, theory-guided measures, and machine-learning clustering are used to identify updating patterns and relate them to psychological profiles. AI-guided qualitative interviews and open-ended responses explore how participants explain their own reasoning, perceived biases, and ideas about optimal updating.",
+    "tags": "Belief formation · Development · AI-assisted interviews"
+  },
+  {
+    "id": "self-knowledge",
+    "category": "Work in progress",
+    "title": "Self-Knowledge in Children",
+    "authors": "With Hannah Schildberg-Hörisch and Alena Tsiulya",
+    "summary": "Studying the origins and intergenerational transmission of self-knowledge.",
+    "abstract": "Using linked child–parent data, this project examines how self-knowledge develops before adulthood and how it is transmitted across generations. It extends research on limited self-knowledge to younger populations to better understand the formation of beliefs about one’s own characteristics and abilities.",
+    "tags": "Children & adolescents · Beliefs · Self-knowledge"
+  },
+  {
+    "id": "news",
+    "category": "Work in progress",
+    "title": "Misalignment: The Production and Consumption of News",
+    "authors": "Ongoing research",
+    "summary": "How do platform incentives shape the news that gets produced?",
+    "abstract": "This project examines how changes in platform exposure affect news production, including its emotionality, sensationalism, and factual quality. It uses Australia’s News Media Bargaining Code and Canada’s 2023 news-sharing ban as policy shocks, with web-scraped news data, a difference-in-differences design, and a structural model of media production.",
+    "tags": "Digital markets · Information · Political economy"
+  },
+  {
+    "id": "manylabs",
+    "category": "Work in progress",
+    "title": "ManyLabsDACH",
+    "authors": "Collaborative research",
+    "summary": "Contributing to experimental design and study implementation across laboratories.",
+    "abstract": "As part of a research team, I contribute to the preparation of an experimental design proposal and the wider collaborative research process, including study preparation, protocol development, and implementation across participating laboratories.",
+    "tags": "Experimental methods · Collaboration"
+  },
+  {
+    "id": "fishery",
+    "category": "Applied & policy work",
+    "title": "Hydro Canal Fishery: Economic Impact Assessment",
+    "authors": "With Brent Lovelock, Stu Hayes and Viktoria Kahui",
+    "summary": "Valuing the economic contribution of recreational fishing in New Zealand’s Mackenzie Basin.",
+    "abstract": "Prepared through a partnership between the Central South Island Fish and Game Council and the University of Otago, this assessment uses survey data from 1,626 anglers for the 2022–2023 fishing season. Expenditure estimates, national angler participation data, and input-output analysis inform an assessment of direct and indirect economic impacts.",
+    "tags": "Environmental economics · Economic impact"
+  },
+  {
+    "id": "biodiversity",
+    "category": "Applied & policy work",
+    "title": "Biodiversity and Agri-Policy Group: Helping Nature and People Thrive",
+    "authors": "Multidisciplinary University of Otago team",
+    "summary": "Designing incentives that support meaningful biodiversity gains.",
+    "abstract": "This project evaluates New Zealand’s proposed Biodiversity Credit System. It considers an outcomes-based, flexible approach to supporting biodiversity gains on private and Māori land, with attention to transaction costs, stacked credits, transparent verification, and practical implementation.",
+    "tags": "Biodiversity · Environmental policy"
+  },
+  {
+    "id": "mind-your-judgments",
+    "category": "Earlier work",
+    "title": "Mind Your Judgments: Does Mindfulness Boost or Hinder Rational Judgments?",
+    "authors": "With Daniel Neururer",
+    "summary": "An experimental study of mindfulness, systematic bias, and noise in judgment.",
+    "abstract": "In incentivized experiments, higher measured state mindfulness is associated with less anchoring and priming, but greater interpersonal noise. The results point to a multidimensional relationship between mindfulness and rational judgment, with potential tradeoffs between systematic bias and variability.",
+    "tags": "Mindfulness · Judgment · Bias & noise",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7634058"
+  }
+]
